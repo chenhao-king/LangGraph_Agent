@@ -4,6 +4,5 @@ ipython
 langchain_openai
 langchain_community
 python-dotenv
-typing
 chromadb
 langchain_chroma
